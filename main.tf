@@ -17,7 +17,7 @@ terraform {
 }
 
 variable "imagebuild" {
-  default = "null"
+  default = "sane default"
   type = string
   description = "Latest Image Build"
 }
