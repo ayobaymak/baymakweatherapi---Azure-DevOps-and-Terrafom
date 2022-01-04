@@ -11,6 +11,7 @@ terraform {
        storage_account_name = "tfstorageaccountbaymak"
        container_name = "tfstate"
        key = "terraform.tfstate"
+       access_key = "HxINDcpfzz20I9nJ6A6NwyfvFDlstbGhadX910NMWD7o52RA9B64vcCwKLT2SpuP7xj5S3PjShB6EUt6UcifZg=="
   }
  
 }
